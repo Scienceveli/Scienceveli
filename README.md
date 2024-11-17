@@ -37,7 +37,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/makavael) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Makavael)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Scienceveli)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/BloodServer)
 
 👨‍💻 **Full Stack Developer | Cybersecurity Expert | Network Specialist**
@@ -83,7 +83,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makavael&show_icons=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scienceveli&show_icons=true&theme=radical)
 
 
 
@@ -92,12 +92,6 @@
 ## 📜 Certifications
 - **Certification in Network Administration** 📃
 - **Certification in Cybersecurity** 🔐
-
----
-
-## 🔥 Featured Projects
-- [![Hamster Bot Script Telegram](https://github-readme-stats.vercel.app/api/pin/?username=Makavael&repo=Hamster-Bot-Script-Telegram&theme=radical)](https://github.com/Makavael/Hamster-Bot-Script-Telegram)
-- [![Libscript Master](https://github-readme-stats.vercel.app/api/pin/?username=Makavael&repo=Libscript-master&theme=radical)](https://github.com/Makavael/Libscript-master)
 
 ---
 
