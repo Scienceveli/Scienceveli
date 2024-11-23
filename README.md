@@ -104,7 +104,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/makavael) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Makavael)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Scienceveli)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/BloodServer)
 
 ---
