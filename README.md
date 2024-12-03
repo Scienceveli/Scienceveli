@@ -38,10 +38,10 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </div>
-## 🌟 About Me
-- **📍 Location**: Hurghada, Egypt 🇪🇬
-- **📞 Contact**: +20 1029107547 | [administrator@webveli.com](mailto:administrator@webveli.com)
-- **📝 Professional Summary**: Over 13 years of experience in full stack development, network administration, and cybersecurity.
+About Me
+📍 Location: Hurghada, Egypt 🇪🇬
+📞 Contact: +20 1029107547 | administrator@webveli.com
+📝 Professional Summary: Over 13 years of experience in full stack development, network administration, and cybersecurity.
 
 ---
 
