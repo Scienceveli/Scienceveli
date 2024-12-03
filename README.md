@@ -140,4 +140,11 @@
   <img src="https://img.shields.io/badge/Flutter-Mobile_Apps-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
 </div>
+[![Website](https://img.shields.io/badge/Website-Makavael.com-blue)](https://Makavael.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/makavael) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Scienceveli)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/BloodServer)
+
+👨‍💻 **Full Stack Developer | Cybersecurity Expert | Network Specialist**
+
 
